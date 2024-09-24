@@ -4,7 +4,7 @@ Bu proje, Amazon'un web sitesinin HTML ve CSS kullanarak klonunu oluşturmayı a
 # Özellikler
 -HTML5 ve CSS3 kullanılarak oluşturulmuştur
 
--Responsive tasarım.
+-Responsive tasarım
 
 -Amazon'un ana sayfasının statik bir klonu
 
